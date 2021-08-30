@@ -1,20 +1,43 @@
-# Heading
-## Sub heading
+<div class="container">
 
-Plain  text
+<header>
 
-- item 1
-- item 2
-  - sub item
-    1. sub sub item
+<div class="row">
 
-[Redirect to Google](https://www.google.com)
+<div class="column left">![Evan Aurelrius](/os212/assets/images/photo.jpeg)</div>
 
-![alt photo](https://picsum.photos/200/200)
+<div class="column right1">Operating Systems 2021-2</div>
 
-> This is blockquote
+<div class="column right2">Evan Aurelrius</div>
 
-| No. | Name | ID |
-| --- | --- | --- |
-| 1 | **Evan** | 42 |
-| 2 | *Someone* | 23 |
+</div>
+
+</header>
+
+<nav class="navbar">
+
+*   [HOME](/os212/)
+*   [LISTING](/os212/000.html)
+*   [LINKS](/os212/LINKS/)
+*   [TIPS](/os212/TIPS/)
+*   [KEY](/os212/TXT/mypubkey.txt)
+*   [LOG](/os212/TXT/mylog.txt)
+*   [GitHub](https://github.com/evan-aurelrius/os212/)
+
+</nav>
+
+<section>
+
+This is Evan Aurelrius from Operating Systems 2021-2.
+
+<!-- Qapl[a!](SandBox/) -->
+
+</section>
+
+<div>
+
+* * *
+
+<div>© 2021 - Evan Aurelrius.</div>
+
+</div>
