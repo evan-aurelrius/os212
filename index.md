@@ -3,7 +3,7 @@
 ## Operating Systems 2021-2
 
 - [HOME](https://evan-aurelrius.github.io/os212/)
-- [LISTING](https://evan-aurelrius.github.io/os212/)
+- [LINKS](https://evan-aurelrius.github.io/os212/LINKS/)
 - [LINKS](https://evan-aurelrius.github.io/os212/)
 - [TIPS](https://evan-aurelrius.github.io/os212/)
 - [KEY](https://evan-aurelrius.github.io/os212/)
