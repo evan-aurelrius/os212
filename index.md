@@ -10,7 +10,7 @@
 - [LOG](https://evan-aurelrius.github.io/os212/TXT/mylog.txt)
 - [Github](https://github.com/evan-aurelrius) -->
 
-[HOME](.) | [LINKS](https://evan-aurelrius.github.io/os212/LINKS/) | [KEY](.) | [RANK](.) | [LOG](.) | [GitHub]([.](https://github.com/evan-aurelrius))
+[HOME](.) | [LINKS](https://evan-aurelrius.github.io/os212/LINKS/) | [KEY](.) | [RANK](.) | [LOG](.) | [GitHub](https://github.com/evan-aurelrius)
 
 > Well, this is new :)
 ---
