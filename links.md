@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-# Top Links :D
+# Top Links 👻
 
 ### 1. [Operating System Course](https://os.vlsm.org/)
 > All you need to know about OS course is just right here.
