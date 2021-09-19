@@ -1,3 +1,3 @@
 ```---
-permalink:/LINKS/index.html
+permalink:/LINKS/
 ---```
