@@ -15,3 +15,5 @@ permalink: /LINKS/
 
 ### 4. [Regular Expression in Grep](https://linuxize.com/post/regular-expressions-in-grep/)
 > Contains tons of usefull informations about regular expressions in Grep (Linux). You can learn about Regex, Anchoring, Literal Matches, Brackets Expressions, Quantifiers, Alternation, Grouping , and Special Backslash Expressions.
+
+---
