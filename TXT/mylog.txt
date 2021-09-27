@@ -20,3 +20,7 @@ ZCZC W03 110 L02 Zoom Meeting
 ZCZC W03 90 L03 Assignment 1
 ZCZC W03 60 L03 Assignment 2 - 4
 ZCZC W03 90 L03 Assignment 5-9
+
+ZCZC W04 100 L02 Zoom Meeting
+ZCZC W04 70 L03 Assignment 1-9
+
