@@ -19,4 +19,7 @@ permalink: /LINKS/
 ### 5. [Stack Overflow](https://stackoverflow.com/)
 > Biggest community to find a solution of programming problems and IT related things. I personally use this website very often to help me solve my programming problems in Web Developing and Mobile Developing. This website is very helpful for students and junior programmers.
 
+### 6. [My study Life](https://app.mystudylife.com/)
+> This web can help students about time management. You can create a reminder about a upcoming classes, assignments, and other tasks. I personally use this website to help me manage my time in my college life.
+
 ---
