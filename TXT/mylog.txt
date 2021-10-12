@@ -29,3 +29,7 @@ ZCZC W05 100 L02 Zoom Meeting
 ZCZC W05 110 L03 All Assignment
 ZCZC W05 30 L02 Zoom Meeting
 
+ZCZC W06 120 L09 All Assignment
+ZCZC W06 150 L06 Read slides
+SCSC W06 180 L06 Watch recorded OS Week 6 videos
+
