@@ -26,4 +26,7 @@ permalink: /LINKS/
 ### 7. [Remote Library UI] (https://remote-lib.ui.ac.id/)
 > If you have University of Indonesia email, you can access this web. This web can help academics to gain access to some international indexing for public research papers. So they can read get alot of useful informations from past research.
 
+### 8. [Disc Udemy] (https://www.discudemy.com/all/1)
+> Disc Udemy is the place where all Udemy Course discount is gathered. So you can see all the dicounted course on Udemy in one place. This website helps me get tons of paid course for FREE. What a deal!
+
 ---
