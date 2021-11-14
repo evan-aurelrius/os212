@@ -29,4 +29,7 @@ permalink: /LINKS/
 ### 8. [Disc Udemy] (https://www.discudemy.com/all/1)
 > Disc Udemy is the place where all Udemy Course discount is gathered. So you can see all the dicounted course on Udemy in one place. This website helps me get tons of paid course for FREE. What a deal!
 
+### 9. [Flutter Dev] (https://flutter.dev/)
+> This website helps mobile developers on making mobile applications with Flutter. You can see flutter documentations, how to download, and flutter community here. I personally like this website because flutter is a new framework and i personally love mobile development.
+
 ---

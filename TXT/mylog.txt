@@ -37,3 +37,7 @@ ZCZC W07 150 L02 Zoom Meeting
 ZCZC W07 150 L09 All Assignment
 ZCZC W07 210 L06 Read slides and study for Weekly Quiz
 ZCZC W07 120 L06 Watch recorded OS Week 7 videos
+
+ZCZC W08 360 L09 All Assignment
+ZCZC W08 150 L02 Zoom Meeting
+ZCZC W08 300 L06 Watch LFS videos
