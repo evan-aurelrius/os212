@@ -32,4 +32,7 @@ permalink: /LINKS/
 ### 9. [Flutter Dev] (https://flutter.dev/)
 > This website helps mobile developers on making mobile applications with Flutter. You can see flutter documentations, how to download, and flutter community here. I personally like this website because flutter is a new framework and i personally love mobile development.
 
+### 10. [Linux From Scratch] (https://www.linuxfromscratch.org/lfs/view/11.0/index.html)
+> This website give a guide on how to build LFS system on Linux From Scratch.
+
 ---
